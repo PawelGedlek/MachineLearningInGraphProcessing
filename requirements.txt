@@ -1,0 +1,10 @@
+ipykernel
+numpy
+tqdm
+requests
+dgl
+matplotlib
+networkx
+torch==1.4.0+cpu
+torchvision==0.5.0+cpu
+scikit-learn
